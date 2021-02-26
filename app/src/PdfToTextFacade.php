@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucasmota\App\Src;
+namespace Lucasmota\Src;
 
 class PdfToTextFacade {
     public static function getText(string $filename)

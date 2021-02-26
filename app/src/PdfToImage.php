@@ -1,13 +1,10 @@
 <?php
 
-namespace App\src;
+namespace Lucasmota\App\Src;
 
-use App\src\FileValidate;
 
 class PdfToImage {
     const  TMP = __DIR__ . "/tmp/tmp.tiff";
-    public $outputExec = [];
-    private $image;
 
     public function __construct(string $filename)
     {

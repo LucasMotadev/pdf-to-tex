@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '160f87caacd6662434b8514bbcfc452fbcfa88bc',
+    'reference' => 'cdfb0d45ea1a4742f2bf7cf69c10abbcc7b2a81d',
     'name' => 'lucasmota/pdf-to-text',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '160f87caacd6662434b8514bbcfc452fbcfa88bc',
+      'reference' => 'cdfb0d45ea1a4742f2bf7cf69c10abbcc7b2a81d',
     ),
     'thiagoalessio/tesseract_ocr' => 
     array (

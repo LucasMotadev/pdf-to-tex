@@ -7,5 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'thiagoalessio\\TesseractOCR\\' => array($vendorDir . '/thiagoalessio/tesseract_ocr/src'),
-    'App\\' => array($baseDir . '/app'),
+    'Lucasmota\\' => array($baseDir . '/app'),
 );

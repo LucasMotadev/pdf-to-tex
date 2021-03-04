@@ -11,9 +11,9 @@ class ComposerStaticInit0cbba7795784ed06bd497e8cf2085943
         array (
             'thiagoalessio\\TesseractOCR\\' => 27,
         ),
-        'A' => 
+        'L' => 
         array (
-            'App\\' => 4,
+            'Lucasmota\\' => 10,
         ),
     );
 
@@ -22,7 +22,7 @@ class ComposerStaticInit0cbba7795784ed06bd497e8cf2085943
         array (
             0 => __DIR__ . '/..' . '/thiagoalessio/tesseract_ocr/src',
         ),
-        'App\\' => 
+        'Lucasmota\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app',
         ),
